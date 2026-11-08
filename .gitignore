@@ -1,0 +1,34 @@
+# Ignore all text files
+*.txt
+
+# Java compiled files
+*.class
+
+# Build output
+target/
+build/
+out/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
